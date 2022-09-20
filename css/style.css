@@ -7241,6 +7241,8 @@ html.rd-navbar-fixed-linked .page {
 	height: auto;
 	width: 100%;
 	background-image: url("../images/CaruselInicio/Background\ -\ copia.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	/* Fix of Webkit flickering */
 	z-index: 1;
 }
