@@ -1,0 +1,8 @@
+href="mailto:info@cogescorp.com?subject=Consulta%20desde%20página%20web%20v1&body=Deseo%20obtener%20mayor%20información%20acerca%20de%20"
+
+<div class="map-responsive">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d996.7235706371818!2d-79.88164033038858!3d-2.1937093597395636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d6d426688c071%3A0xdcd8cebc0d90a448!2sCogescorp%20S.A!5e0!3m2!1ses-419!2sec!4v1702052082393!5m2!1ses-419!2sec"
+              width="600" height="450" style="border: 0" allowfullscreen="" loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
