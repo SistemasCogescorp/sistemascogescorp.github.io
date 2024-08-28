@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: url("../fonts/Gontserrat-Regular.ttf");
+	src: url("../fonts/Gontserrat-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'fave-script-bold';
+	src: url("../fonts/fave-script-bold.ttf");
+	src: url("../fonts/fave-script-bold.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
